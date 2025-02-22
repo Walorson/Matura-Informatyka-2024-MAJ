@@ -1,0 +1,14 @@
+7.1
+
+164-61-25-530	12185
+159-34-45-151	12047
+091-99-74-175	11769
+
+7.2
+
+Całkowity przychód hurtowni: 2422669,40 zł
+Odmiana jabłka która dała największy przychód: Reneta
+
+7.4
+W 181 transakcjach hurtownia udzieliła rabatu
+Łączna suma rabatów: 3089,10 zł

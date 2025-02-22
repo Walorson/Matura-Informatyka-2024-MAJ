@@ -1,0 +1,3 @@
+SELECT Fotoradar.IdFotoradaru
+FROM Fotoradar LEFT JOIN Rejestr ON Fotoradar.IdFotoradaru = Rejestr.IdFotoradaru
+WHERE Rejestr.IdFotoradaru IS NULL;
